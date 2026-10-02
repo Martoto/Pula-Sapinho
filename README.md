@@ -93,14 +93,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - daniel.sant.salles@gmail.com
-
-Project Link: [https://github.com/Martoto/Pula-Sapinho](https://github.com/Martoto/Pula-Sapinho)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
